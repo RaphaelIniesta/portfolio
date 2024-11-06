@@ -111,7 +111,7 @@ section {
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 10%;
     object-fit: contain;
     max-width: 100%;
 }
